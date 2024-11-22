@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: cgug-aa's gu-story
 feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
