@@ -1,5 +1,5 @@
 ---
-title: cgug-aa's gu-story
+title: cgug-aa's
 feature_text: |
   ## cgug-aa's blog
   My journey of learning and records of my studies
